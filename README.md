@@ -95,13 +95,16 @@ with clarity, elegance, and long-term intent.
 ### 🤖 AI & Intelligence
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,transformers,faiss&perline=4" />
-  <img src="https://skillicons.dev/icons?i=openai&perline=1" />
+  <img src="https://raw.githubusercontent.com/atova-assets/icons/main/chatgpt.png" width="40" title="ChatGPT" />
+  <img src="https://raw.githubusercontent.com/atova-assets/icons/main/claude.png" width="40" title="Claude" />
+  <img src="https://raw.githubusercontent.com/atova-assets/icons/main/gemini.png" width="40" title="Gemini" />
+  <img src="https://raw.githubusercontent.com/atova-assets/icons/main/mistral.png" width="40" title="Mistral" />
 </div>
 
 <div align="center">
 
 `Python` · `LangChain` · `PyTorch` · `Transformers` · `FAISS` · `Vector Databases`  
-`RAG Pipelines` · `OpenAI / ChatGPT` · `Anthropic / Claude` · `Google Gemini`  
+`RAG Pipelines` · `OpenAI / ChatGPT` · `Anthropic / Claude` · `Google Gemini` · `Mistral`  
 `LLM APIs` · `Prompt Engineering` · `Embeddings` · `AI Automation`
 
 </div>
