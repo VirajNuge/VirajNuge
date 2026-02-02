@@ -94,11 +94,17 @@ with clarity, elegance, and long-term intent.
 
 ### 🤖 AI & Intelligence
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,transformers,faiss&perline=4" />
+  <img src="https://skillicons.dev/icons?i=openai&perline=1" />
 </div>
 
-`Python` · `RAG Pipelines` · `Vector Databases`  
-`LLM APIs` · `Embeddings` · `Prompt Engineering`
+<div align="center">
+
+`Python` · `LangChain` · `PyTorch` · `Transformers` · `FAISS` · `Vector Databases`  
+`RAG Pipelines` · `OpenAI / ChatGPT` · `Anthropic / Claude` · `Google Gemini`  
+`LLM APIs` · `Prompt Engineering` · `Embeddings` · `AI Automation`
+
+</div>
 
 ---
 
