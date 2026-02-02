@@ -42,7 +42,7 @@ with clarity, elegance, and long-term intent.
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" alt="System architecture animation"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" width="520" alt="Modern system visualization"/>
 </div>
 
 ---
