@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=260&section=header&text=Viraj%20Nuge&fontSize=78&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Software+Architect+%26+AI+Engineer;Founder-in-Progress+of+AI-Driven+SaaS;Designing+Systems+That+Scale+With+Elegance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=950&lines=Software+Architect+%26+AI+Engineer;Founder+of+AI-Driven+SaaS+Systems;Clean+Architecture+%7C+Modern+Soft+UI" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -26,70 +26,85 @@
 
 ## 🧠 About Me
 
-I am a **Software Architect & AI Engineer** focused on building  
-**AI-driven SaaS ecosystems** with clean architecture and long-term scalability.
+I’m a **Software Architect & AI Engineer** building  
+**AI-first SaaS ecosystems** with a focus on **clean architecture, automation, and privacy-first intelligence**.
 
-My work sits at the intersection of **automation, system design, and intelligent software**—where products are not just built, but *engineered*.
-
-- 🔭 Architecting AI-powered SaaS platforms  
-- 🧠 Designing modular systems that scale without technical debt  
-- 🔐 Building privacy-first, local AI solutions  
-- ☕ Turning coffee into autonomous agents and clean geometry  
-
----
-
-## 🏗️ What I Build
-
-**AI-Powered Systems**
-- Autonomous booking & workflow agents (WhatsApp / API-driven)
-- Local RAG pipelines for private document intelligence
-
-**Scalable Web Platforms**
-- High-concurrency MERN & Next.js applications
-- Clean backend architectures with long-term maintainability
-
-**Architecture-First Products**
-- Modular, extensible systems designed for growth
-- Minimalist “Modern Soft” UI systems focused on UX clarity
-
----
-
-## 🛠️ Tech Stack
+My approach blends **system-level thinking**, **Modern Soft UI design**, and **production-grade engineering**.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,tailwind,docker,aws,git&perline=5" />
+
+`AI Automation` · `Clean Architecture` · `Privacy-First AI` · `SaaS Engineering` · `Modern Soft UI`
+
 </div>
 
-**Frontend**
-- React · Next.js · Tailwind CSS  
-*(Modern Soft UI / minimalist geometry)*
+<br/>
 
-**Backend**
-- Node.js · Express · MongoDB
-
-**AI / Intelligence**
-- Python
-- Retrieval-Augmented Generation (RAG)
-- LLM API integrations
-- Vector databases
-
-**Infrastructure & Tools**
-- Docker · AWS
-- Git · GitHub
-- Stripe / Paddle integrations
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Coding animation"/>
+</div>
 
 ---
 
-## 🚀 Selected Work
+## 🧩 What I Engineer
 
-- **AI Automation SaaS**  
-  WhatsApp-integrated booking and workflow automation platform for businesses.
+### 🧠 Intelligent Systems
+- Autonomous AI agents for booking & workflow automation
+- Local, offline RAG pipelines for secure document intelligence
+- LLM-powered assistants with real business logic
 
-- **Local Knowledge Base AI**  
-  Offline RAG system enabling secure querying of PPTX and document files.
+### 🏗️ Scalable Architectures
+- High-concurrency backend systems
+- Modular, extensible service design
+- API-first & event-driven patterns
 
-- **SaaS Architecture Frameworks**  
-  High-performance MERN templates optimized for scalability and “Soft” UI design.
+### 🎨 Modern Soft Interfaces
+- Minimalist geometry
+- Motion-aware UX
+- Developer-friendly design systems
+
+<div align="center">
+
+`Automation` · `RAG` · `LLMs` · `System Design` · `Scalability` · `UX Engineering`
+
+</div>
+
+---
+
+## 🛠️ Tech Stack (Expanded)
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&perline=7" />
+</div>
+
+`React` · `Next.js` · `Tailwind CSS` · `TypeScript` · `Modern Soft UI`
+
+---
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&perline=5" />
+</div>
+
+`Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `Redis` · `WebSockets`
+
+---
+
+### 🤖 AI & Intelligence
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=4" />
+</div>
+
+`Python` · `RAG Pipelines` · `Vector Databases` · `LLM APIs` · `Embeddings` · `Prompt Engineering`
+
+---
+
+### ☁️ DevOps & Infrastructure
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,github&perline=6" />
+</div>
+
+`Docker` · `AWS` · `CI/CD` · `Linux` · `Git` · `Stripe / Paddle`
 
 ---
 
@@ -108,19 +123,19 @@ My work sits at the intersection of **automation, system design, and intelligent
 
 ---
 
-## 🧩 Engineering Belief
+## 🧠 Engineering Belief
 
-> **“Architecting systems that don’t just work —  
-> but scale with elegance and intelligence.”**
+> **“Architecting systems that don’t just function —  
+> but scale with elegance, intelligence, and intent.”**
 
-I optimize for **clarity, longevity, and real-world impact** over trends.
+I prioritize **clarity over cleverness**, **systems over features**, and **long-term impact over trends**.
 
 ---
 
-## 🏆 Signals
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VirajNuge&theme=flat&no-frame=true&column=6&margin-w=12" />
+
+`Founder Mindset` · `Architect Thinking` · `AI-First Systems`
+
 </div>
 
 ---
