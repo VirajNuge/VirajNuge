@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Viraj%20Nuge&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b61ff&height=280&section=header&text=Viraj%20Nuge&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello,+I'm+Viraj!;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Software+Architect;AI+Solutions+Engineer;Full+Stack+Specialist;Building+Scalable+SaaS" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://github.com/VirajNuge">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -23,55 +20,55 @@
 <br/>
 
 <div align="center">
-  <h3>🏆 Achievements</h3>
+  <h3>🏆 System Contributions & Achievements</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VirajNuge&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VirajNuge&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
   </a>
 </div>
 
 <br/>
 
 ---
-### 🧐 About Me
 
-- 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **Full Stack Development**
-- 👯 I’m looking to collaborate on **Open Source**
-- ⚡ Fun fact: **I turn coffee into code.**
+### 🏗️ Engineering Philosophy
+
+- 🔭 **Focus:** Architecting AI-driven SaaS ecosystems and high-performance MERN applications.
+- 🧠 **AI Research:** Developing local RAG (Retrieval-Augmented Generation) pipelines and automated booking systems.
+- 🎨 **UI/UX:** Championing the **"Modern Soft"** aesthetic—minimalist geometry with a focus on user experience.
+- ⚡ **Fun fact:** I don't just write code; I design systems that solve problems.
 
 ---
 
 <div align="center">
-  <h3>🛠️ Technical Skills</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,git,github,vscode,python,java" perline="6" />
+  <h3>🛠️ Core Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,py,docker,aws,git,github,vscode" perline="6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
+  <h3>📊 Performance Metrics</h3>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=VirajNuge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
-  </a>
+  <table align="center">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=VirajNuge&show_icons=true&theme=transparent&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA&hide_border=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajNuge&layout=compact&theme=transparent&title_color=A78BFA&text_color=ffffff&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajNuge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/VirajNuge">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajNuge&theme=tokyonight&hide_border=true&background=0D1117" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajNuge&theme=transparent&hide_border=true&stroke=A78BFA&ring=7b61ff&fire=7b61ff&currStreakLabel=A78BFA" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VirajNuge&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VirajNuge&color=7b61ff&style=flat-square&label=Network+Traffic" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b61ff&height=100&section=footer" width="100%"/>
 </div>
