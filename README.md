@@ -99,7 +99,6 @@ with clarity, elegance, and long-term intent.
   <br/>
 
   <p>
-    <img src="https://cdn.simpleicons.org/openai/74aa9c" width="40" title="OpenAI" />&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/anthropic/7b61ff" width="40" title="Claude / Anthropic" />&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/googlegemini/8E75ED" width="40" title="Google Gemini" />&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/langchain/3B3B3B" width="40" title="LangChain" />&nbsp;&nbsp;
