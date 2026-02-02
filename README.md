@@ -1,19 +1,19 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05b620d3-f677-49e7-9883-e6bd904ed3b1" /><div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=260&section=header&text=Viraj%20Nuge&fontSize=78&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=260&section=header&text=Viraj%20Nuge&fontSize=76&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=950&lines=Software+Architect+%26+AI+Engineer;Founder+of+AI-Driven+SaaS+Systems;Clean+Architecture+%7C+Modern+Soft+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=880&lines=Software+Architect+%26+AI+Engineer;Founder+of+AI-Driven+SaaS+Systems;Clean+Architecture+•+Modern+Soft+UI" />
 </a>
 
 <br/><br/>
 
 <p>
   <a href="https://github.com/VirajNuge">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:viraj@example.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -24,23 +24,25 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I’m a **Software Architect & AI Engineer** building  
-**AI-first SaaS ecosystems** with a focus on **clean architecture, automation, and privacy-first intelligence**.
+I’m a **Software Architect & AI Engineer** focused on designing  
+**AI-first SaaS ecosystems** with clean architecture, automation,  
+and privacy-first intelligence.
 
-My approach blends **system-level thinking**, **Modern Soft UI design**, and **production-grade engineering**.
+I don’t just build features — I **engineer systems** that scale  
+with clarity, elegance, and long-term intent.
 
 <div align="center">
 
-`AI Automation` · `Clean Architecture` · `Privacy-First AI` · `SaaS Engineering` · `Modern Soft UI`
+`AI Automation` · `System Design` · `Privacy-First AI` · `SaaS Architecture` · `Modern Soft UI`
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Coding animation"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" alt="System architecture animation"/>
 </div>
 
 ---
@@ -48,36 +50,36 @@ My approach blends **system-level thinking**, **Modern Soft UI design**, and **p
 ## 🧩 What I Engineer
 
 ### 🧠 Intelligent Systems
-- Autonomous AI agents for booking & workflow automation
+- Autonomous agents for booking & workflow orchestration
 - Local, offline RAG pipelines for secure document intelligence
-- LLM-powered assistants with real business logic
+- LLM-powered assistants grounded in real business logic
 
 ### 🏗️ Scalable Architectures
 - High-concurrency backend systems
 - Modular, extensible service design
-- API-first & event-driven patterns
+- API-first and event-driven architectures
 
 ### 🎨 Modern Soft Interfaces
-- Minimalist geometry
-- Motion-aware UX
+- Minimalist geometry & visual hierarchy
+- Motion-aware, low-noise UX
 - Developer-friendly design systems
 
 <div align="center">
 
-`Automation` · `RAG` · `LLMs` · `System Design` · `Scalability` · `UX Engineering`
+`Automation` · `RAG` · `LLMs` · `Scalability` · `Event-Driven` · `UX Engineering`
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack (Expanded)
+## 🛠️ Technology Stack
 
 ### 🎨 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&perline=7" />
 </div>
 
-`React` · `Next.js` · `Tailwind CSS` · `TypeScript` · `Modern Soft UI`
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Modern Soft UI`
 
 ---
 
@@ -92,30 +94,31 @@ My approach blends **system-level thinking**, **Modern Soft UI design**, and **p
 
 ### 🤖 AI & Intelligence
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python&perline=4" />
 </div>
 
-`Python` · `RAG Pipelines` · `Vector Databases` · `LLM APIs` · `Embeddings` · `Prompt Engineering`
+`Python` · `RAG Pipelines` · `Vector Databases`  
+`LLM APIs` · `Embeddings` · `Prompt Engineering`
 
 ---
 
 ### ☁️ DevOps & Infrastructure
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&perline=6" />
 </div>
 
-`Docker` · `AWS` · `CI/CD` · `Linux` · `Git` · `Stripe / Paddle`
+`Docker` · `AWS` · `CI/CD` · `Linux` · `Nginx`  
+`Stripe / Paddle` · `Infrastructure Design`
 
 ---
 
 ## 🧠 Engineering Belief
 
-> **“Architecting systems that don’t just function —  
+> **“Architecting systems that don’t just work —  
 > but scale with elegance, intelligence, and intent.”**
 
-I prioritize **clarity over cleverness**, **systems over features**, and **long-term impact over trends**.
-
----
+I value **clarity over cleverness**, **systems over features**,  
+and **long-term impact over short-term trends**.
 
 <div align="center">
 
