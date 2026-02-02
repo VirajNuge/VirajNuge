@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05b620d3-f677-49e7-9883-e6bd904ed3b1" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=260&section=header&text=Viraj%20Nuge&fontSize=78&fontAlignY=35&animation=fadeIn" width="100%"/>
 
@@ -105,21 +105,6 @@ My approach blends **system-level thinking**, **Modern Soft UI design**, and **p
 </div>
 
 `Docker` · `AWS` · `CI/CD` · `Linux` · `Git` · `Stripe / Paddle`
-
----
-
-## 📊 Engineering Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VirajNuge&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajNuge&layout=compact&theme=transparent&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajNuge&theme=transparent&hide_border=true"/>
-</div>
 
 ---
 
