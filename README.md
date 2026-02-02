@@ -94,18 +94,25 @@ with clarity, elegance, and long-term intent.
 
 ### 🤖 AI & Intelligence
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,transformers,faiss&perline=4" />
-  <img src="https://raw.githubusercontent.com/atova-assets/icons/main/chatgpt.png" width="40" title="ChatGPT" />
-  <img src="https://raw.githubusercontent.com/atova-assets/icons/main/claude.png" width="40" title="Claude" />
-  <img src="https://raw.githubusercontent.com/atova-assets/icons/main/gemini.png" width="40" title="Gemini" />
-  <img src="https://raw.githubusercontent.com/atova-assets/icons/main/mistral.png" width="40" title="Mistral" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi&perline=4" />
+  
+  <br/>
+
+  <p>
+    <img src="https://cdn.simpleicons.org/openai/74aa9c" width="40" title="OpenAI" />&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/anthropic/7b61ff" width="40" title="Claude / Anthropic" />&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75ED" width="40" title="Google Gemini" />&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/langchain/3B3B3B" width="40" title="LangChain" />&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" title="Hugging Face" />
+  </p>
 </div>
 
 <div align="center">
 
-`Python` · `LangChain` · `PyTorch` · `Transformers` · `FAISS` · `Vector Databases`  
-`RAG Pipelines` · `OpenAI / ChatGPT` · `Anthropic / Claude` · `Google Gemini` · `Mistral`  
-`LLM APIs` · `Prompt Engineering` · `Embeddings` · `AI Automation`
+### 🧠 Intelligence Layer
+`Python` • `LangChain` • `PyTorch` • `FAISS` • `Vector Databases`  
+`RAG Pipelines` • `GPT-4o` • `Claude 3.5` • `Gemini 1.5 Pro` • `Mistral`  
+`LLM Agents` • `Prompt Engineering` • `Embeddings` • `AI Automation`
 
 </div>
 
