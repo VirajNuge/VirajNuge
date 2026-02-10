@@ -1,24 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=260&section=header&text=Viraj%20Nuge&fontSize=76&fontAlignY=35&animation=fadeIn" width="100%"/>
+# 👋 Hi, I’m **Viraj Nuge**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=880&lines=Software+Architect+%26+AI+Engineer;Founder+of+AI-Driven+SaaS+Systems;Clean+Architecture+•+Modern+Soft+UI" />
+**Software Architect & AI Engineer**
+
+Designing scalable, AI-first SaaS systems  
+with clean architecture and long-term clarity.
+
+<br/>
+
+<a href="https://github.com/VirajNuge">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<p>
-  <a href="https://github.com/VirajNuge">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:viraj@example.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:viraj@example.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -26,127 +25,50 @@
 
 ## 🧠 About
 
-I’m a **Software Architect & AI Engineer** focused on designing  
-**AI-first SaaS ecosystems** with clean architecture, automation,  
-and privacy-first intelligence.
-
-I don’t just build features — I **engineer systems** that scale  
-with clarity, elegance, and long-term intent.
-
-<div align="center">
-
-`AI Automation` · `System Design` · `Privacy-First AI` · `SaaS Architecture` · `Modern Soft UI`
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" width="520" alt="Modern system visualization"/>
-</div>
+I focus on **engineering systems**, not just features.  
+My work blends **software architecture**, **AI automation**,  
+and **scalable SaaS design** with clarity and intent.
 
 ---
 
-## 🧩 What I Engineer
+## 🛠️ Skills
 
-### 🧠 Intelligent Systems
-- Autonomous agents for booking & workflow orchestration
-- Local, offline RAG pipelines for secure document intelligence
-- LLM-powered assistants grounded in real business logic
-
-### 🏗️ Scalable Architectures
-- High-concurrency backend systems
-- Modular, extensible service design
-- API-first and event-driven architectures
-
-### 🎨 Modern Soft Interfaces
-- Minimalist geometry & visual hierarchy
-- Motion-aware, low-noise UX
-- Developer-friendly design systems
-
-<div align="center">
-
-`Automation` · `RAG` · `LLMs` · `Scalability` · `Event-Driven` · `UX Engineering`
-
+### 💻 Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&perline=6" />
 </div>
-
----
-
-## 🛠️ Technology Stack
-
-### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&perline=7" />
-</div>
-
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Modern Soft UI`
-
----
 
 ### ⚙️ Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&perline=5" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&perline=6" />
 </div>
-
-`Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `Redis` · `WebSockets`
-
----
 
 ### 🤖 AI & Intelligence
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi&perline=4" />
-  
-  <br/>
-
-  <p>
-    <img src="https://cdn.simpleicons.org/anthropic/7b61ff" width="40" title="Claude / Anthropic" />&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75ED" width="40" title="Google Gemini" />&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/langchain/3B3B3B" width="40" title="LangChain" />&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" title="Hugging Face" />
-  </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi&perline=6" />
 </div>
 
-<div align="center">
+- LLM Integration & RAG Pipelines  
+- AI Agents & Workflow Automation  
+- Embeddings & Prompt Engineering  
 
-### 🧠 Intelligence Layer
-`Python` • `LangChain` • `PyTorch` • `FAISS` • `Vector Databases`  
-`RAG Pipelines` • `GPT-4o` • `Claude 3.5` • `Gemini 1.5 Pro` • `Mistral`  
-`LLM Agents` • `Prompt Engineering` • `Embeddings` • `AI Automation`
-
+### ☁️ DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git&perline=6" />
 </div>
 
 ---
 
-### ☁️ DevOps & Infrastructure
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&perline=6" />
-</div>
+## 🧩 Engineering Focus
 
-`Docker` · `AWS` · `CI/CD` · `Linux` · `Nginx`  
-`Stripe / Paddle` · `Infrastructure Design`
+- Clean Architecture & System Design  
+- API-First & Event-Driven Systems  
+- AI-First SaaS Platforms  
 
 ---
 
-## 🧠 Engineering Belief
-
-> **“Architecting systems that don’t just work —  
-> but scale with elegance, intelligence, and intent.”**
-
-I value **clarity over cleverness**, **systems over features**,  
-and **long-term impact over short-term trends**.
+> **Building systems that scale with clarity and intent.**
 
 <div align="center">
-
-`Founder Mindset` · `Architect Thinking` · `AI-First Systems`
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VirajNuge&color=7C3AED&style=flat-square&label=Profile+Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=110&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=VirajNuge&color=7C3AED&style=flat-square"/>
 </div>
